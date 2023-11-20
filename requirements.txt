@@ -1,0 +1,12 @@
+streamlit==1.27.1
+numpy==1.24.3
+pandas==1.5.3
+matplotlib==3.7.1
+scikit-learn==1.3.1
+emoji==2.8.0
+langid==1.1.6
+chardet==3.0.4
+nltk==3.8.1
+spacy==3.5.0
+joblib==1.2.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
